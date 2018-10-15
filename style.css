@@ -1,0 +1,47 @@
+h1{
+color:  black;
+text-align: center;
+}
+
+h2{
+color:  black;
+text-align: center;
+}
+
+h3{
+color:  black;
+text-align: center;
+}
+
+body{
+padding-left: 2rem;
+}
+
+p{
+color: black;
+padding-left;
+}
+
+table {
+  border-spacing:5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+    background-color: #80FF0000
+}
+
+th, td {
+  text-align: center;
+}
+
+table tr {
+    background-color: #eee;
+}
+table tr:nth-child(odd) {
+    background-color: #fff;
+}
